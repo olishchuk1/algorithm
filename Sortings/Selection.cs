@@ -44,26 +44,6 @@ namespace Sortings
                 a[i] = t;
             }
         }
-        static void Main(string[] args)
-        {
-            int[] a = { 1, 5, 2, 8, 1, 8, 1, 8, 2, 9, 3, -1, -76543, 76543, 876543, 65432, 8765432, 76543, 8765432, 765432 };
-
-            foreach (var i in a)
-            {
-                Console.Write(i);
-                Console.Write(' ');
-            }
-
-            Console.WriteLine();
-
-            SelectionSort(a);
-
-            foreach (var i in a)
-            {
-                Console.Write(i);
-                Console.Write(' ');
-
-            }
-        }
+        
     }
 }
