@@ -1,0 +1,11 @@
+D:\programing\Algorithm\algorithm\Search\bin\Debug\netcoreapp2.1\Search.deps.json
+D:\programing\Algorithm\algorithm\Search\bin\Debug\netcoreapp2.1\Search.runtimeconfig.json
+D:\programing\Algorithm\algorithm\Search\bin\Debug\netcoreapp2.1\Search.runtimeconfig.dev.json
+D:\programing\Algorithm\algorithm\Search\bin\Debug\netcoreapp2.1\Search.dll
+D:\programing\Algorithm\algorithm\Search\bin\Debug\netcoreapp2.1\Search.pdb
+D:\programing\Algorithm\algorithm\Search\obj\Debug\netcoreapp2.1\Search.csprojAssemblyReference.cache
+D:\programing\Algorithm\algorithm\Search\obj\Debug\netcoreapp2.1\Search.csproj.CoreCompileInputs.cache
+D:\programing\Algorithm\algorithm\Search\obj\Debug\netcoreapp2.1\Search.AssemblyInfoInputs.cache
+D:\programing\Algorithm\algorithm\Search\obj\Debug\netcoreapp2.1\Search.AssemblyInfo.cs
+D:\programing\Algorithm\algorithm\Search\obj\Debug\netcoreapp2.1\Search.dll
+D:\programing\Algorithm\algorithm\Search\obj\Debug\netcoreapp2.1\Search.pdb
