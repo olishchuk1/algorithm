@@ -8,3 +8,6 @@ Algorithms implementation on c#
 
 ### Searching algorithms
 - finding maximum subarray
+
+### Matrices
+- square matrix multiplication
