@@ -1,5 +1,5 @@
 # Algorithm
-Algorithms implementation on c#
+Algorithms' implementation on c#
 
 ### Sorting algorithms (Ascending Order/Descending Order):
 - insertion sort
